@@ -1,13 +1,13 @@
-# 🧾 Visitor Log System (Python Advanced)
+ 🧾 Visitor Log System (Python Advanced)
 
-## 📌 Description
+ 📌 Description
 This is a Python-based visitor logging system that records visitor entries with timestamps.
 
 The system ensures:
 - No duplicate visitor entries
 - A 5-minute waiting rule between visitors
 
-## 🚀 Features
+ Features
 - File handling using `with` statement
 - Custom exceptions:
   - DuplicateVisitorError
@@ -16,24 +16,24 @@ The system ensures:
 - Timestamp logging
 - Error handling without crashing
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 - Python
 - datetime module
 - File handling
 
-## 📂 Project Structure
+ 📂 Project Structure
 python-advanced-visitor-log-system/
 │── visitor_log.py
 │── visitors.txt
 │── output.txt
 │── README.md
 
-## ▶️ How to Run
+ ▶️ How to Run
 1. Open project in VS Code
 2. Run:
    python visitor_log.py
 
-## 💡 Example
+ 💡 Example
 
 Enter visitor's name: Ahmed  
 Output:  
@@ -45,11 +45,11 @@ Error: Visitor already signed in last
 If within 5 minutes:  
 Error: Another visitor cannot enter until after 5 minutes  
 
-## 🔮 Future Improvements
+ 🔮 Future Improvements
 - Add GUI interface
 - Store data in database
 - Add admin dashboard
 - Allow multiple visitor tracking
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 Imraan Mu'hd Sani
