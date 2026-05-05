@@ -111,6 +111,8 @@ python visitor_log.py
 * Support multiple visitor sessions
 * Add login/authentication system
 
+💡 This project demonstrates my current approach and can be further enhanced with more advanced features and optimizations.
+📌 Built as part of my early learning phase in machine learning and application development.
 ---
 
 ## 👨‍💻 Author
